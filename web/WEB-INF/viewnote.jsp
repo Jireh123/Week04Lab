@@ -12,6 +12,9 @@
         <title>View Note</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Simple Note Keeper</h1>
+        <h2>View Note</h2>
+        
+        <a href="note?edit">Edit</a>
     </body>
 </html>
